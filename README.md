@@ -40,10 +40,20 @@ streamlit run app.py
 3. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
 
 ## Usage
+![WhatsApp Image 2025-07-04 at 17 10 26_f4414e47](https://github.com/user-attachments/assets/cc55f36e-ef9b-4b3a-b866-09ad0b9be3e3)
+
+
 
 1. Upload an image:
    - Click on "Choose an image..." to upload a handwritten digit image
    - Supported formats: JPG, JPEG, PNG
+   - 
+   - ![WhatsApp Image 2025-07-04 at 17 10 42_0ca4d02e](https://github.com/user-attachments/assets/0cb47a05-cb12-447d-a32f-f8a033898959)
+   - ![WhatsApp Image 2025-07-04 at 17 11 09_68b4da70](https://github.com/user-attachments/assets/1fdbb125-b4bf-40d7-83ae-171a015d9407)
+   - ![WhatsApp Image 2025-07-04 at 17 11 28_7fb3d492](https://github.com/user-attachments/assets/e56592b0-8622-45f9-b0bf-d1eef6c27c4c)
+
+
+
 
 2. View results:
    - The application will display:
@@ -52,10 +62,28 @@ streamlit run app.py
      - Reconstruction error
      - Anomaly status
      - Error distribution
+     - ![WhatsApp Image 2025-07-04 at 17 11 28_09acdb16](https://github.com/user-attachments/assets/6939df56-6efc-46b4-9b61-fa058d569cf3)
+     - ![WhatsApp Image 2025-07-04 at 17 11 53_8705702b](https://github.com/user-attachments/assets/283344ab-8cef-45e0-82a8-401ac4b4074c)
+     - ![WhatsApp Image 2025-07-04 at 17 12 30_dfaae511](https://github.com/user-attachments/assets/1d8e3c39-20ca-4bdc-bd47-8543ebbbacf6)
+
+
+
 
 3. Sample Images(Choose from testSet folder):
    - Use the provided sample images to test the system
    - These images demonstrate different types of anomalies
+  
+   - ![img_2](https://github.com/user-attachments/assets/bb3b0b50-8cf7-41d3-b3ed-ca396e8ae5ee)
+  
+   - ![img_17](https://github.com/user-attachments/assets/b6ccda25-0926-4671-86d0-b73dc9ad38f0)
+  
+   - ![img_21](https://github.com/user-attachments/assets/bd403f7c-9ade-4cb5-9ac1-332b4c9b4f08)
+  
+   - ![img_22](https://github.com/user-attachments/assets/1844036f-2f60-4899-b107-45472a06e874)
+
+
+
+
 
 ## Project Structure
 
