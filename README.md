@@ -19,8 +19,8 @@ This project implements an anomaly detection system for handwritten digits using
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/RuthinChandra/Anomaly-Detection-using-Deep-Learning.git
+cd Anomaly-Detection-using-Deep-Learning-main
 ```
 
 2. Install the required packages:
